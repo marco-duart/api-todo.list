@@ -246,8 +246,10 @@
       "name": "Turma 07",
       "mentory": {
         "title": "Estrutura de Dados",
-        "mentor": {},
-        "id": 11
+        "mentor": {
+        "name": "Paola Oliveira Silva",
+        "id": 2
+      }
       },
       "date": "2023-07-18",
       "day": "Terça-feira",
